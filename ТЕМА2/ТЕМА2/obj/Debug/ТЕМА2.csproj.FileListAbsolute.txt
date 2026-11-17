@@ -1,0 +1,7 @@
+C:\Users\Huawei\Desktop\УП\ТЕМА2\ТЕМА2\bin\Debug\ТЕМА2.exe.config
+C:\Users\Huawei\Desktop\УП\ТЕМА2\ТЕМА2\bin\Debug\ТЕМА2.exe
+C:\Users\Huawei\Desktop\УП\ТЕМА2\ТЕМА2\bin\Debug\ТЕМА2.pdb
+C:\Users\Huawei\Desktop\УП\ТЕМА2\ТЕМА2\obj\Debug\ТЕМА2.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\УП\ТЕМА2\ТЕМА2\obj\Debug\ТЕМА2.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\УП\ТЕМА2\ТЕМА2\obj\Debug\ТЕМА2.exe
+C:\Users\Huawei\Desktop\УП\ТЕМА2\ТЕМА2\obj\Debug\ТЕМА2.pdb
